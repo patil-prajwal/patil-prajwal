@@ -65,7 +65,7 @@
   <b>*Let's connect and chat! Open for collaborations.*</b>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/prajwal-patil227/" alt="Linkedin"><img height="60" width="100" src="https://img.icons8.com/fluent/344/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/prajwal-patil227/" alt="Linkedin"><img height="60" width="100" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:patilprajwal22@gmail.com" alt="Contact me"><img height="60" width="100" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/google-gmail.svg"></a>
     
   </p>
