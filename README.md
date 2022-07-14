@@ -6,7 +6,7 @@
 </div>
  
 
-- **I'm a Third Year Student Pursuing Bachelors's in Computer Science**
+- **I'm a Final Year Student Pursuing Bachelors's (B.E.) in Computer Engineering**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - 🎓**From Sinhgad Institute of Technology, Pune 🏛.**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
