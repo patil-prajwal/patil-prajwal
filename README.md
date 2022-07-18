@@ -2,7 +2,7 @@
 
 <div>
 <div align = "center">
- <img align ="right"  width="30%"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="">
+ <img align ="right"  width="55%"  src="https://raw.githubusercontent.com/patil-prajwal/patil-prajwal/main/code.gif" alt="">
 </div>
  
 
@@ -62,7 +62,7 @@
   <b></b>
 <hr>
 <p align="center">
-  <b>*Let's connect and chat! Open for collaborations.*</b>
+  <b>*Let's connect and chat ! Open for collaborations.*</b>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/prajwal-patil227/" alt="Linkedin"><img height="60" width="100" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
